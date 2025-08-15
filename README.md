@@ -1,0 +1,1 @@
+Hello and welcome to my portfolio page! I am excited to share several projects that I have worked on through my Master's in Business Analytics at The Ohio State University as well as in my Data Science and Machine Learning Certification program. # data-science-projects
